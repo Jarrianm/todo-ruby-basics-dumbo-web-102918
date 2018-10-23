@@ -8,7 +8,7 @@ def assign_variable(value)
 end
 
 def argue (argument)
-return "I'm right and you are wrong!"
+puts "I'm right and you are wrong!"
 end
 
 def greeting (greeting, name)
@@ -16,7 +16,7 @@ def greeting (greeting, name)
 end
 
 def return_a_value
-  return "Nice"
+  puts "Nice"
 end
 
 def last_evaluated_value
