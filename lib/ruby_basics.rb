@@ -12,7 +12,7 @@ return "I'm right and you are wrong!"
 end
 
 def greeting (greeting, name)
-  return "#{greeting}, #{name}!"
+  puts "#{greeting}, #{name}!"
 end
 
 def return_a_value
